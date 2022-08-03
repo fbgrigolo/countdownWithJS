@@ -1,6 +1,6 @@
 # countdownWithJS
 
-A simple class to countdown some input date
+A simple class to countdown some input date.
 Advisable to use together with setInterval() with 1 second interval for continuous update.
 
 ### Working example:
