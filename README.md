@@ -10,5 +10,4 @@ timeForChristimas = new Coutdown(' 24 December 2022 23:49:59 GMT-0300');
 
 `setInterval(() => {
 timeForNewYear = new Coutdown(' 31 December 2022 23:49:59 GMT-0300');
-}, 1000);
-//  ↑ Here set the interval to one second`
+}, 1000);`
